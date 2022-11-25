@@ -1,0 +1,30 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: azure;
+}
+
+li {
+   font-size: 45px;
+   text-align: center;
+   color: white;
+}
+
+p {
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+table {
+
+    background-color: black;
+    color: azure;
+}
+
+body {
+    background-image: url(taca.jpg);
+    background-repeat: no-repeat;
+    background-size: 1990px;
+    background-attachment: fixed;
+}
+
